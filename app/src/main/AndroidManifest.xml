@@ -16,6 +16,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Activitys.ReceiveActivity1"
+            android:exported="true"
+            android:label="@string/title_activity_recive1" >
+        </activity>
+        <activity
+            android:name=".Activitys.ReceiveActivity2"
+            android:exported="true"
+            android:label="@string/title_activity_receive2" >
+        </activity>
     </application>
 
 </manifest>
