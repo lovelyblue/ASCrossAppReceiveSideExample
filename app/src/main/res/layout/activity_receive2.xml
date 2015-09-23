@@ -17,11 +17,12 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ReceiveActivity2"
+        android:text="setResult(RESULT_OK)"
         android:id="@+id/button"
         android:layout_below="@+id/textView"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
+        android:onClick="btnBackPressed"
         android:layout_marginTop="69dp"/>
 
 </RelativeLayout>

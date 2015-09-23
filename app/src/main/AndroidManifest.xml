@@ -26,6 +26,11 @@
             android:exported="true"
             android:label="@string/title_activity_receive2" >
         </activity>
+        <activity
+            android:name=".Activitys.ReceiveActivity3"
+            android:exported="true"
+            android:label="@string/title_activity_receive3" >
+        </activity>
     </application>
 
 </manifest>
